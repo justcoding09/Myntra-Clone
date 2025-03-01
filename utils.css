@@ -1,0 +1,27 @@
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify-centre{
+    justify-content: center;
+}
+header{
+    box-shadow: 0 0px 12px 0 rgba(0, 0, 0, .05);
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.space-evenly{
+    justify-content: space-evenly;
+}
+.text-center{
+    text-align: center;
+}
+input:focus{
+    outline: none;
+}
+.justify-right{
+    justify-self: right;
+}

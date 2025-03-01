@@ -1,0 +1,52 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family:  "Assistant", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;;
+    font-optical-sizing: auto;
+}
+.left img{
+    height: 36px;
+    width: 53px;
+}
+.container{
+    position: fixed;
+    right: 0;
+    left: 0;
+}
+nav ul li{
+    list-style: none;
+    padding: 0 12px;
+    font-weight: 700;
+    font-size: 14px;
+    color: rgba(50, 47, 46, 0.866);
+}
+.studio{
+    position: relative;
+    bottom: 4px;
+}
+.right div a{
+    padding: 0 14px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+}
+.right input{
+    width: 350px;    
+    padding: 8px 10px 10px;   
+}
+.search,.right input{
+    align-self: center;
+    border: 1px solid #f5f5f6;
+    border-radius: 0 4px 4px 0;
+    color: #696e79;
+    background: #f5f5f6;
+}
+.search i{
+    padding: 0 12px;
+}
+.home-image{
+    width: 100%;
+    margin-top: 80px;
+    height: auto;
+}
