@@ -1,6 +1,4 @@
-onload();
 
-function onload(){
     let itemContainer = document.querySelector('.items-container');
     let content = "";
 
@@ -37,6 +35,3 @@ function onload(){
         }
         itemsinBag.textContent = bagItems.length;
     }
-}
-
-export default { bagItems, displayBagIcon };
