@@ -136,3 +136,11 @@ nav ul li a{
     bottom: 6px;
     font-size: 12px;
 }
+.bag-summary{
+    margin-top: 130px;
+    width: 250px;
+    height: 260px;
+}
+.bag-items-container{
+    margin-top: 130px;
+}

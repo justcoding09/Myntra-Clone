@@ -1,6 +1,6 @@
 const items = [
     {
-        id: '001',
+        id: '1',
         image: '/1.jpg',
         company: 'Nikon',
         item_name: 'Nikon COOLPIX A300 Point & Shoot Camera 20.1 MP',
@@ -15,7 +15,7 @@ const items = [
         },
     },
     {
-        id: '002',
+        id: '2',
         image: '/2.jpg',
         company: 'Blue Heaven ',
         item_name: 'Blue Heaven Festive Fair Tone Make Up Kit - Vanilla (10Pcs)',
@@ -30,7 +30,7 @@ const items = [
         },
     },
     {
-        id: '003',
+        id: '3',
         image: '/3.jpg',
         company: 'HERO',
         item_name: 'Calcuttacycleco Hero Cycles For Mens And Boys 27.5 T Mountain/Hardtail Cycle',
@@ -45,7 +45,7 @@ const items = [
         },
     },
     {
-        id: '004',
+        id: '4',
         image: '/4.jpg',
         company: 'apple',
         item_name: 'macbook m1',
@@ -60,7 +60,7 @@ const items = [
         },
     },
     {
-        id: '005',
+        id: '5',
         image: '/5.jpg',
         company: 'Roadster',
         item_name: 'Pure Cotton T-shirt',
@@ -75,7 +75,7 @@ const items = [
         },
     },
     {
-        id: '006',
+        id: '6',
         image: '/6.jpg',
         company: 'watch',
         item_name: 'Men ReactX watch',
@@ -90,7 +90,7 @@ const items = [
         },
     },
     {
-        id: '007',
+        id: '7',
         image: '/7.jpg',
         company: 'The Indian Garage Co',
         item_name: 'Men Slim Fit Regular Shorts',
@@ -103,7 +103,7 @@ const items = [
         },
     },
     {
-        id: '008',
+        id: '8',
         image: '/8.jpg',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',

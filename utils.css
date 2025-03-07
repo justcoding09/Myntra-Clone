@@ -82,3 +82,6 @@ ul span{
 .space-around{
     justify-content: space-around;
 }
+html body li{
+    list-style: none;
+}
